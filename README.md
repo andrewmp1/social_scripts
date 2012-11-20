@@ -1,0 +1,1 @@
+Don't forget to add your credentials to each script!
